@@ -1,0 +1,15 @@
+{
+  "name": "notspace-android",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build:web": "node scripts/prepare-mobile.mjs"
+  },
+  "dependencies": {
+    "@capacitor/android": "7.4.3",
+    "@capacitor/core": "7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "7.4.3"
+  }
+}
